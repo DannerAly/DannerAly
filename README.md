@@ -4,7 +4,23 @@
 
 ###
 
-<h1 align="center">Siempre Haciendo Cosas</h1>
+<h1 align="center" style="font-weight: bold; font-size: 2em;">
+  Siempre haciendo <span class="typed-words">proyectos</span>
+</h1>
+
+<style>
+@keyframes swapWords {
+  0%   { content: "proyectos"; }
+  50%  { content: "apps"; }
+  100% { content: "proyectos"; }
+}
+
+.typed-words::after {
+  content: "proyectos";
+  animation: swapWords 3s infinite;
+}
+</style>
+
 
 
 ###
