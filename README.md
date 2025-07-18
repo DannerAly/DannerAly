@@ -4,7 +4,7 @@
 
 ###
 
- <h1 align="center">Inquieto, un poco hiperactivo</h1>
+ <h1 align="center">Inquieto, un poco hiperactivo.</h1>
 
 
 
